@@ -57,8 +57,8 @@ def tik():
 		print("\r\033[1;96m \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 back = 0
 berhasil = []
-(SRF)chekpoint = []
-(SRF)oks = []
+srfchekpoint = []
+srfoks = []
 id = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
